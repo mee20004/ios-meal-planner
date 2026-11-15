@@ -4,7 +4,7 @@ Meal Planner is a small iOS app for planning meals and tracking what was eaten. 
 
 My purpose for this project is to learn how SwiftUI forms, lists, and app state work together. I also want to understand how to save user-entered data on an iPhone. Meal entries are stored locally and loaded when the app starts again. This completes the local-storage stretch challenge. The daily list and add/edit sheet also provide two views for the user.
 
-Software Demo Video: Pending recording and upload.
+[Software Demo Video](https://youtu.be/JdsRzmxujMc)
 
 # Development Environment
 
